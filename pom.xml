@@ -5,7 +5,7 @@
 
   <groupId>org.dukecon</groupId>
   <artifactId>dukecon-pwa</artifactId>
-  <version>1.0.36</version>
+  <version>1.0.51</version>
   <packaging>jar</packaging>
 
   <name>DukeCon Client: Vue PWA</name>
