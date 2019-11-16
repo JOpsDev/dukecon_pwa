@@ -2,7 +2,7 @@ apiVersion: skaffold/v1beta2
 kind: Config
 build:
   artifacts:
-  - image: jxtest-199909/dukecon-pwa
+  - image: dukecon-demo-tf/dukecon-pwa
     context: target/docker-build
     docker: {}
   tagPolicy:
